@@ -1,0 +1,9 @@
+Package: com.sttt.wchooktext
+Name: WCHookPlaceholderColorText
+Author: sttt
+Description: Add WeChat's input box placeholder text and change the color.
+Depends: mobilesubstrate
+Maintainer: sttt
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 1.0.0
