@@ -1,7 +1,7 @@
 # WCHookPlaceholderColorText
 #### Add WeChat's input box placeholder text and change the color.
 ***
-![WCHookPlaceholderColorText Preview](https://github.com/Mieing/WCHookPlaceholderColorText/blob/master/effect.jpg)
+![Preview](https://raw.githubusercontent.com/Mieing/WCHookPlaceholderColorText/main/effect.jpg)
 
 ***
 #### **Custom text and colors**
